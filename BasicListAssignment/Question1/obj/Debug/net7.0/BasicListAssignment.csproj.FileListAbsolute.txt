@@ -1,0 +1,15 @@
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\bin\Debug\net7.0\BasicListAssignment.exe
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\bin\Debug\net7.0\BasicListAssignment.deps.json
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\bin\Debug\net7.0\BasicListAssignment.runtimeconfig.json
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\bin\Debug\net7.0\BasicListAssignment.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\bin\Debug\net7.0\BasicListAssignment.pdb
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.csproj.AssemblyReference.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.AssemblyInfoInputs.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.AssemblyInfo.cs
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\refint\BasicListAssignment.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.pdb
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\BasicListAssignment.genruntimeconfig.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Assignment\BasicListAssignment\Question1\obj\Debug\net7.0\ref\BasicListAssignment.dll
