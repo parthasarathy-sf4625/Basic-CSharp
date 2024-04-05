@@ -1,3 +1,1 @@
 # Basic-CSharp
-
-# Parthasarathy
